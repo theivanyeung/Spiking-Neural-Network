@@ -2,7 +2,7 @@
 
 **Visualization of a growing spiking-neural network w/ unsupervised learning. (5000 neurons, 33187 synapes)**
 
-![snn-visualization-min](https://user-images.githubusercontent.com/58407773/226332511-5f45bfba-21cd-492b-8849-d2ea78336a84.gif)
+![snn-visualization](https://user-images.githubusercontent.com/58407773/226333658-23d758a9-04d9-43a4-b060-1bf4ec455a47.gif)
 
 ---
 
