@@ -2,9 +2,9 @@
 
 **Visualization of a growing spiking-neural network w/ unsupervised learning. (5000 neurons, 33187 synapes)**
 
-![image](https://user-images.githubusercontent.com/58407773/226218912-5069a5a0-6b80-43e7-8aa9-0d7d53f8fe1b.png)
+![snn-visualization](https://user-images.githubusercontent.com/58407773/226333658-23d758a9-04d9-43a4-b060-1bf4ec455a47.gif)
 
--
+---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
