@@ -4,6 +4,8 @@
 
 ![snn-visualization](https://user-images.githubusercontent.com/58407773/226333658-23d758a9-04d9-43a4-b060-1bf4ec455a47.gif)
 
+Youtube Video: https://youtu.be/9fYQQJ5YYY8
+
 ---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
