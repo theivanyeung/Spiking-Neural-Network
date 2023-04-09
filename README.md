@@ -6,6 +6,18 @@
 
 Youtube Video: https://youtu.be/9fYQQJ5YYY8
 
+"It would take off on its own and redesign itself at an ever-increasing rate."
+
+The capabilities of the human brain are truly mind-boggling. Over eons, evolution has produced an intricate structure with incomprehensible complexity; with its billion of neurons and trillions of synapses, it is an incredibly complex and efficient information-processing system. In comparison, current perceptrons, though beneficial for various applications, are much much simpler and less adaptive. As we progress into the future with natural civilization advancements, the need for higher-level neural network structures and novel artificial intelligence (using the term "AI" is meaningless as it has become ambiguous) architectures will grow.
+
+Neuromorphic computing and engineering, inspired by the structure and function of the human brain, aims to develop energy-efficient architectures and algorithms that process information in a more biologically plausible manner. By leveraging this approach, we could create artificial intelligence systems that are much more efficient and capable of learning from their given environments in ways that resemble human cognition.
+
+When doing my research, one of the main challenges that were mentioned in neuromorphic computing lies in the developmental phase due to the incredible complexity of mimicking the behavior of biological neurons and synapses. Various approaches are being tested, such as using memristors to emulate synaptic plasticity.
+
+Current artificial intelligence systems primarily rely on supervised learning techniques, but neuromorphic systems will require the adoption of unsupervised learning methods that better reflect the learning methods in the human brain.
+
+Neuromorphic computing and engineering hold great potential for advancing artificial intelligence. However, it is unwise to approach the implementation of intelligent systems blinded by their tangible capabilities. We must remain critical of artificial intelligence applications and the potential consequences of unsupervised and unrestricted use, hence the quote at the beginning.
+
 ---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
